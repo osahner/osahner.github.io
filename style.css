@@ -1,0 +1,9 @@
+body {
+  background-image: url(os.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-blend-mode: darken;
+  background-color: navajowhite;
+  background-attachment: fixed;
+}
