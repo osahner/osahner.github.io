@@ -4,6 +4,10 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-blend-mode: darken;
-  background-color: navajowhite;
+  background-color: rgb(255, 222, 173);
   background-attachment: fixed;
+}
+
+.bg-soft {
+  background-color: rgba(255, 222, 173, 0.6);
 }
