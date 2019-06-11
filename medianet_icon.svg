@@ -1,9 +1,1 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" viewBox="0 0 120 120"
-    xmlns="http://www.w3.org/2000/svg">
-    <g fill="#f55a00">
-        <circle cx="86.8" cy="35.2" r="12"/>
-        <circle cx="34.8" cy="84.9" r="24"/>
-        <circle cx="86.8" cy="84.9" r="24"/>
-        <circle cx="34.8" cy="35.2" r="24"/>
-    </g>
-</svg>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"><g fill="#f55a00"><circle cx="86.8" cy="35.2" r="12"/><circle cx="34.8" cy="84.9" r="24"/><circle cx="86.8" cy="84.9" r="24"/><circle cx="34.8" cy="35.2" r="24"/></g></svg>
